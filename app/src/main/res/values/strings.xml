@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhotoAlbum</string>
+    <string name="app_title">Фото альбом</string>
+    <string name="start_btn_title"><![CDATA[К просмотру ->]]></string>
+    <string name="exit_btn_title">Выход</string>
+    <string name="nent_btn_title">Следующее фото</string>
+    <string name="last_title">Спасибо за просмотр</string>
+</resources>
